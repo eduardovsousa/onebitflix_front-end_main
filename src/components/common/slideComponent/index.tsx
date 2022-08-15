@@ -44,7 +44,6 @@ const SlideComponent = function ({ course }: props ) {
                         width: 250
                     }
                 }
-                
             }}>
                 { course?.map((course) => (
                     <SplideSlide key={ course.id }>
