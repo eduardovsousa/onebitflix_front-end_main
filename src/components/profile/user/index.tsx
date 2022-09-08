@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { useRouter } from "next/router";
 import { FormEvent, useEffect, useState } from "react";
 import { Button, Form, FormGroup, Input, Label } from "reactstrap";
