@@ -16,11 +16,11 @@ const UserInfo = function() {
         <title>Onebitflix - Meu dados</title>
         <link rel="shortcut icon" href="/favicon.svg" type="image/x-icon"/>
       </Head>
-      <main>
+      <main className={styles.main}>
         <div className={ styles.header }>
         <HeaderAuth />
         </div>
-        <Container className="py-5">
+        <Container className={styles.gridContainer}>
           <p className={ styles.title }>Minha conta</p>
           <Row className="pt-3 pb-5">
             <Col md={4} className={ styles.btnColumn }>
