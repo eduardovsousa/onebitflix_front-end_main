@@ -1,6 +1,7 @@
 <h1> OneBitFlix (Netflix Clone) 🔥</h1>
 
 ## 🛠 &nbsp;Work in progress...
+> Projeto clone da Netflix, onde você pode assistir os melhores cursos, estando sempre atualizado das maiores e melhores atualizações do mercado de TI.
 ##
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
